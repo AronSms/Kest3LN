@@ -20,7 +20,7 @@
 <img src="Myndir/DSNConfig.png">
 
 **5. Create the users accounts using a script, see the Users file.**
-
+Ég bjó til .sh scriptu og notaði forloopu til að gera notendur.
 <img src="Myndir/CreatUser.png">
 <img src="Myndir/UsresCheck.png">
 
@@ -32,6 +32,8 @@ Friday**
 
 **8. Install and configure NTP on the server and clients, server1 must be master server to
 synchronize the time of the clients**
+
+Eftir að ég seti NTP up á server tengdi ég cliant 1 og 2  við server.
 
 <img src="Myndir/Ntp.png">
 
