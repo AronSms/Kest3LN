@@ -19,7 +19,7 @@
 
 **5. Create the users accounts using a script, see the Users file.**
 
-<img src="Myndir/UserCreate.png">
+<img src="Myndir/CreatUsersSH.png">
 <img src="Myndir/UsresCheck.png">
 
 **7. Due to data loss the company policy requires taking backups weekly, as system engineer
