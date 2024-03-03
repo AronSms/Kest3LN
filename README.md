@@ -1,7 +1,7 @@
 # KEST2NL05EU LOKAVERKEFNI
 **1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is**
 
-Ég gerði svo það sama fyrir Client 1 og 2
+Ég gerði svo það sama fyrir Client 1 og 2.
 
 <img src="Myndir/Hostname-server1.png">
 <img src="Myndir/Domain-server1.png">
@@ -13,6 +13,8 @@
 <img src="Myndir/TestPing.png">
 
 **4. Install and configure DNS server on server1, so Hostnames are resolved to IP Addresses.**
+
+Ég installaði DSN pakanum bind9 og seti hann upp.
 
 <img src="Myndir/DNS.png">
 <img src="Myndir/DSNConfig.png">
@@ -34,5 +36,7 @@ Cube open-source software.**
 
 **11. Install and configure shared printers for each group, only users that belong to the group
 should print only, accept IT and Management groups should print and manage the printers.**
+
+Eftir að hafa breyt aðgegnig fyrir prentar í groupu kékaði ég hvort að hann(prentarinn) veri ekki öruglega til.
 
 <img src="Myndir/CupsPrinterCheck.png">
