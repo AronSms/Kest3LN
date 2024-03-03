@@ -35,4 +35,4 @@ Cube open-source software.**
 **11. Install and configure shared printers for each group, only users that belong to the group
 should print only, accept IT and Management groups should print and manage the printers.**
 
-<img src="Myndir/CupsPrinter.png">
+<img src="Myndir/CupsPrinterCheck.png">
