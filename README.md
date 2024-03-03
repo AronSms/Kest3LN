@@ -21,18 +21,25 @@
 
 **5. Create the users accounts using a script, see the Users file.**
 
-<img src="Myndir/CreatUsersSH.png">
+<img src="Myndir/CreatUser.png">
 <img src="Myndir/UsresCheck.png">
 
 **7. Due to data loss the company policy requires taking backups weekly, as system engineer
 you are required to schedule backups of home directories to run weekly at midnight each
 Friday**
 
+<img src="Myndir/Backup.png">
+
 **8. Install and configure NTP on the server and clients, server1 must be master server to
 synchronize the time of the clients**
 
+<img src="Myndir/Ntp.png">
+
 **10. Install and configure Postfix on server1, so users can send and receive emails using Round
 Cube open-source software.**
+
+<img src="Myndir/PostfixStatus.png">
+<img src="Myndir/SentEmail.png">
 
 **11. Install and configure shared printers for each group, only users that belong to the group
 should print only, accept IT and Management groups should print and manage the printers.**
