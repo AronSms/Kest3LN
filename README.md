@@ -14,7 +14,7 @@
 
 **4. Install and configure DNS server on server1, so Hostnames are resolved to IP Addresses.**
 
-<img src="Myndir/DSN.png">
+<img src="Myndir/DNS.png">
 <img src="Myndir/DSNConfig.png">
 
 **5. Create the users accounts using a script, see the Users file.**
