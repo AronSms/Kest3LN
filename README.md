@@ -39,4 +39,4 @@ should print only, accept IT and Management groups should print and manage the p
 
 Eftir að hafa breyt aðgegnig fyrir prentar í groupu kékaði ég hvort að hann(prentarinn) veri ekki öruglega til.
 
-<img src="Myndir/CupsPrinterCheck.png">
+<img src="Myndir/CupsPrinter.png">
