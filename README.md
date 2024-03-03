@@ -3,7 +3,7 @@
 
 Ég gerði svo það sama fyrir Client 1 og 2
 
-<img src="Myndir/Hostname-server1.png" style="max-width: 400px;">
+<img src="Myndir/Hostname-server1.png">
 <img src="Myndir/Domain-server1.png" style="max-width: 400px;">
 
 **2.configure server1 with static IP Address, from the IP Address block 192.168.100.0/24. The server must be configured with the 10th usable IP Address.**
